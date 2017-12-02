@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/elmarcifuentes/liri-node-app#readme",
   "dependencies": {
+    "axios": "^0.17.1",
     "node-spotify-api": "^1.0.7",
     "request": "^2.83.0",
     "twitter": "^1.7.1"
